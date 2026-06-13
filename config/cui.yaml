@@ -1,0 +1,4 @@
+# CUI 插件默认配置
+cui:
+  app_name: "Pancake CLI"
+  version: "1.0.0"
